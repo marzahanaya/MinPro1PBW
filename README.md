@@ -187,7 +187,10 @@ Kode:
 ```
 
 Penjelasan Kode:
+
+
 Website portofolio ini memiliki beberapa bagian utama yaitu Navbar, Home, About Me, Experience, dan Certificates yang saling terhubung melalui menu navigasi. Navbar dibuat dengan bantuan Bootstrap sehingga tampil rapi dan tetap bisa digunakan dengan baik di berbagai ukuran layar. Pada bagian Home ditampilkan foto, nama, dan deskripsi singkat yang diambil dari data Vue JS sehingga mudah diubah tanpa mengedit langsung HTML. Bagian About Me berisi penjelasan diri serta daftar kemampuan yang ditampilkan dalam bentuk progress bar dengan persentase tertentu. Selanjutnya, Experience menampilkan daftar pengalaman atau kemampuan dalam bentuk list yang tersusun rapi. Pada bagian Certificates, ditampilkan beberapa sertifikat dalam bentuk card yang berisi gambar, judul, dan deskripsi. Secara keseluruhan, website ini menggunakan HTML sebagai kerangka utama, CSS untuk mempercantik tampilan, Bootstrap 5 untuk membantu desain yang responsif, serta Vue JS 3 untuk mengatur dan menampilkan data secara dinamis.
 
 Teknologi yang digunakan:
+
 Teknologi yang digunakan dalam pembuatan website portofolio ini adalah HTML sebagai struktur utama halaman, CSS untuk mengatur tampilan dan desain, Bootstrap 5 untuk membantu membuat layout yang rapi dan responsif, serta Vue JS 3 yang digunakan untuk mengelola dan menampilkan data secara dinamis seperti nama, skills, pengalaman, dan sertifikat.
